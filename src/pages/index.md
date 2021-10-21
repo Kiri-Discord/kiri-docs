@@ -43,4 +43,4 @@ this is not required, but donating will keep me alive and performing well, as we
 🛠️ Help
 --------
 
-Simply run `k!help` (or your prefix) to display the full paginated help page! To make it easier for you, check out [this page](docs/) to get my detailed help!
+Simply run `k!help` (or your prefix) to display the full paginated help page! To make it easier for you, check out this page (work in progress) to get my detailed help!
