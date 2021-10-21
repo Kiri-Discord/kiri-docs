@@ -7,13 +7,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Kiri',
-    tagline: 'Your devotable Discord bot',
-    url: 'https://your-docusaurus-test-site.com',
+    tagline: 'Your devotive Discord bot',
+    url: 'https://kiribot.xyz',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'Kiri-Discordd', // Usually your GitHub org/user name.
+    organizationName: 'Kiri-Discord', // Usually your GitHub org/user name.
     projectName: 'kiri-docs', // Usually your repo name.
 
     presets: [
@@ -24,7 +24,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Kiri-Discord/kiri-docs',
+                    editUrl: 'https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/',
                 },
                 blog: {
                     showReadingTime: true,
@@ -42,64 +42,88 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
         navbar: {
-            title: 'My Site',
+            title: 'Kiri',
             logo: {
-                alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                alt: 'Kiri logo',
+                src: 'img/logo.png',
             },
-            items: [{
-                    type: 'doc',
-                    docId: 'intro',
-                    position: 'left',
-                    label: 'Tutorial',
-                },
-                { to: '/blog', label: 'Blog', position: 'left' },
+            items: [
+
+                // {
+                //     type: 'doc',
+                //     docId: 'intro',
+                //     position: 'left',
+                //     label: 'Help',
+                // },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
-                    label: 'GitHub',
+                    to: '/faq',
+                    position: 'left',
+                    label: 'FAQ',
+                },
+                {
+                    to: '/privacy',
+                    position: 'left',
+                    label: 'Privacy Policy',
+                },
+                // { to: '/blog', label: 'Blog', position: 'left' },
+                {
+                    href: 'https://discord.com/api/oauth2/authorize?client_id=859116638820761630&permissions=4294831607&scope=bot%20applications.commands',
+                    label: 'Invite me',
                     position: 'right',
                 },
+                {
+                    href: 'https://discord.gg/D6rWrvS',
+                    label: 'Our community server',
+                    position: 'right',
+                },
+                {
+                    href: 'https://discord.gg/kJRAjMyEkY',
+                    label: 'Our support server',
+                    position: 'right',
+                }
             ],
         },
         footer: {
             style: 'dark',
-            links: [{
-                    title: 'Docs',
-                    items: [{
-                        label: 'Tutorial',
-                        to: '/docs/intro',
-                    }, ],
-                },
+            links: [
+                // {
+                //     title: 'Help',
+                //     items: [{
+                //         label: 'Getting Started',
+                //         to: '/docs/intro',
+                //     }],
+                // },
                 {
                     title: 'Community',
                     items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: 'Top.gg Website',
+                            href: 'https://top.gg/bot/859116638820761630',
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            label: 'Discord Support Server',
+                            href: 'https://discord.gg/kJRAjMyEkY',
                         },
                         {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            label: 'Discord Community Server',
+                            href: 'https://discord.gg/D6rWrvS',
                         },
                     ],
                 },
                 {
                     title: 'More',
-                    items: [{
-                            label: 'Blog',
-                            to: '/blog',
-                        },
+                    items: [
+                        // {
+                        //     label: 'Blog',
+                        //     to: '/blog',
+                        // },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://github.com/Kiri-Discord',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `© ${new Date().getFullYear()} Kiri`,
         },
         prism: {
             theme: lightCodeTheme,

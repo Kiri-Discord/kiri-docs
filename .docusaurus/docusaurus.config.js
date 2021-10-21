@@ -1,53 +1,62 @@
 export default {
   "title": "Kiri",
-  "tagline": "Your devotable Discord bot",
-  "url": "https://your-docusaurus-test-site.com",
+  "tagline": "Your devotive Discord bot",
+  "url": "https://kiribot.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "Kiri-Discordd",
+  "organizationName": "Kiri-Discord",
   "projectName": "kiri-docs",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "F:\\handler-template\\kiri-docs\\kiri-docs\\sidebars.js",
-          "editUrl": "https://github.com/Kiri-Discord/kiri-docs"
+          "sidebarPath": "F:\\handler-template\\kiri-docs\\sidebars.js",
+          "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/"
         },
         "blog": {
           "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "F:\\handler-template\\kiri-docs\\kiri-docs\\src\\css\\custom.css"
+          "customCss": "F:\\handler-template\\kiri-docs\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Kiri",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Kiri logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
+          "to": "/faq",
           "position": "left",
-          "label": "Tutorial"
+          "label": "FAQ"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "to": "/privacy",
+          "position": "left",
+          "label": "Privacy Policy"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://discord.com/api/oauth2/authorize?client_id=859116638820761630&permissions=4294831607&scope=bot%20applications.commands",
+          "label": "Invite me",
+          "position": "right"
+        },
+        {
+          "href": "https://discord.gg/D6rWrvS",
+          "label": "Our community server",
+          "position": "right"
+        },
+        {
+          "href": "https://discord.gg/kJRAjMyEkY",
+          "label": "Our support server",
           "position": "right"
         }
       ],
@@ -57,28 +66,19 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Top.gg Website",
+              "href": "https://top.gg/bot/859116638820761630"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Discord Support Server",
+              "href": "https://discord.gg/kJRAjMyEkY"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Discord Community Server",
+              "href": "https://discord.gg/D6rWrvS"
             }
           ]
         },
@@ -86,17 +86,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/Kiri-Discord"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "© 2021 Kiri"
     },
     "prism": {
       "theme": {

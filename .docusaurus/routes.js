@@ -94,6 +94,16 @@ export default [
     exact: true
   },
   {
+    path: '/faq',
+    component: ComponentCreator('/faq','a88'),
+    exact: true
+  },
+  {
+    path: '/privacy',
+    component: ComponentCreator('/privacy','a99'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs','87d'),
     routes: [
