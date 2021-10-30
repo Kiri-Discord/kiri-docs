@@ -4,7 +4,7 @@ description: Your loyal assistant, packed with levelings, fun ecomony and many m
 ---
 
 <p align="center">
-<img alt="Kiri Avatar" src="https://images-ext-2.discordapp.net/external/nMBpRYg6kCNJ8xBVcDQ_aJ8A3BZ48nEbfJBolKLAZiY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/859116638820761630/f923c6db761e8751bf112488c37dafc5.png?width=100&height=100" />
+<img alt="Kiri Avatar" src="https://cdn.discordapp.com/avatars/859116638820761630/a4b5a360d083600083240331d1f67c51.png?width=100&height=100" />
 </p>
 
 <h1><center>🐱 Kiri 🐱</center></h1>
