@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/setup-prefix",
+  "id": "basics/setup-prefix",
+  "isDocsHomePage": false,
+  "title": "Setting up server prefix",
+  "description": "After setting up your permission you can even also customize my prefix to your liking in the server!",
+  "source": "@site/docs/basics/setup-prefix.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/setup-prefix",
+  "permalink": "/docs/basics/setup-prefix",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-prefix.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Setting up server prefix"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up permission",
+    "permalink": "/docs/basics/setup-permission"
+  },
+  "next": {
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
+  }
+}

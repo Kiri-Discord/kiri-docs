@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/contributing",
+  "id": "basics/contributing",
+  "isDocsHomePage": false,
+  "title": "Contributing guide",
+  "description": "This guide is still work in progress 🥰 If you want to contribute to this guide, please consider make your changes and open a pull request at my GitHub repo",
+  "source": "@site/docs/basics/contributing.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/contributing",
+  "permalink": "/docs/basics/contributing",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Contributing guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up server prefix",
+    "permalink": "/docs/basics/setup-prefix"
+  },
+  "next": {
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
+  }
+}

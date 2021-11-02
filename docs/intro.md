@@ -1,35 +1,27 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Tutorial Intro
+# 👋🏻 Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to my guide and documentation! This guide will let you know how to setup each features correctly, as well as walking you through every command that i deliver! Before we begin, here are some additional information that you should note:
 
-## Getting Started
+## 📕 How do i read this guide?
 
-Get started by **creating a new site**.
+Here is how the formatting works on these docs globally:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+| Formatting | Description                                                                       |
+|------------|-----------------------------------------------------------------------------------|
+|   `<user>`   | Indicate a required arguments to fill. The whole command won't work without this! |
+|   `[user]`   | Indicate an optional arguments that you can skip.                                 |              |
 
-## Generate a new site
+:::caution
 
-Generate a new Docusaurus site using the **classic template**:
+Don't includes those `<>` and `[]` when writing the command, unless it's specified directly inside the documentation!
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+:::
 
-## Start your site
+## ❓ Need to answer a specific question?
 
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+You can check my [FAQ page](/faq), where most frequently asked question are answered to solve a specific problem, instead of reading the whole documentation! Some addtional support can also be found in our [Support server](https://discord.gg/kJRAjMyEkY) or [Community server](https://discord.gg/D6rWrvS) to ask directly the users that have use that feature before!

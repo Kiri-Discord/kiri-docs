@@ -14,7 +14,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "F:\\handler-template\\kiri-docs\\sidebars.js",
-          "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/"
+          "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -31,9 +31,15 @@ export default {
       "title": "Kiri",
       "logo": {
         "alt": "Kiri logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
+        {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Help and Documentation"
+        },
         {
           "to": "/faq",
           "position": "left",

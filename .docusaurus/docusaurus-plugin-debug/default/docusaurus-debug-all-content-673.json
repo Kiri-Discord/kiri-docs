@@ -7,8 +7,8 @@
           "versionLabel": "Next",
           "versionPath": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs",
-          "versionEditUrlLocalized": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs",
+          "versionEditUrlLocalized": "https://github.com/Kiri-Discord/kiri-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -26,170 +26,46 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Getting started",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "basics/inviting"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "basics/setup-permission"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "basics/setup-prefix"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "basics/setup-moderation-logs"
                   }
                 ]
               },
               {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ]
+                "type": "doc",
+                "id": "contributing"
               }
             ]
           },
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "basics/inviting",
+              "id": "basics/inviting",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "isDocsHomePage": false,
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "isDocsHomePage": false,
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/create-a-page.md",
+              "title": "Inviting Kiri",
+              "description": "I can either be invited to your server through the default invite link, or via the top.gg website.",
+              "source": "@site/docs/basics/inviting.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/inviting",
+              "permalink": "/docs/basics/inviting",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/inviting.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -198,116 +74,144 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial Intro",
+                "title": "Introduction",
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "Setting up permission",
+                "permalink": "/docs/basics/setup-permission"
               }
             },
             {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
+              "unversionedId": "basics/setup-moderation-logs",
+              "id": "basics/setup-moderation-logs",
               "isDocsHomePage": false,
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/markdown-features.mdx",
+              "title": "Setup moderation logs",
+              "description": "For each moderative action (such as kick, ban, prune), i also send logs so you can keep track of those update easily through a channel. This guide will guide you through the setup of moderation logs, and what i will and won't log.",
+              "source": "@site/docs/basics/setup-moderation-logs.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-moderation-logs",
+              "permalink": "/docs/basics/setup-moderation-logs",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-moderation-logs.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "title": "Setup moderation logs"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "Setting up server prefix",
+                "permalink": "/docs/basics/setup-prefix"
               },
               "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "Contributing guide",
+                "permalink": "/docs/contributing"
               }
             },
             {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
+              "unversionedId": "basics/setup-permission",
+              "id": "basics/setup-permission",
               "isDocsHomePage": false,
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-extras/translate-your-site.md",
+              "title": "Setting up permission",
+              "description": "I also needs several permissions to be able to provides you functionality and features. Below",
+              "source": "@site/docs/basics/setup-permission.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-permission",
+              "permalink": "/docs/basics/setup-permission",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-permission.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "title": "Setting up permission"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "Inviting Kiri",
+                "permalink": "/docs/basics/inviting"
+              },
+              "next": {
+                "title": "Setting up server prefix",
+                "permalink": "/docs/basics/setup-prefix"
+              }
+            },
+            {
+              "unversionedId": "basics/setup-prefix",
+              "id": "basics/setup-prefix",
+              "isDocsHomePage": false,
+              "title": "Setting up server prefix",
+              "description": "After setting up your permission you can even also customize my prefix to your liking in the server!",
+              "source": "@site/docs/basics/setup-prefix.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-prefix",
+              "permalink": "/docs/basics/setup-prefix",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-prefix.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Setting up server prefix"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up permission",
+                "permalink": "/docs/basics/setup-permission"
+              },
+              "next": {
+                "title": "Setup moderation logs",
+                "permalink": "/docs/basics/setup-moderation-logs"
+              }
+            },
+            {
+              "unversionedId": "contributing",
+              "id": "contributing",
+              "isDocsHomePage": false,
+              "title": "Contributing guide",
+              "description": "This guide is still work in progress 🥰 If you want to contribute to this guide, please consider make your changes and open a pull request at my GitHub repo",
+              "source": "@site/docs/contributing.md",
+              "sourceDirName": ".",
+              "slug": "/contributing",
+              "permalink": "/docs/contributing",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/contributing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Contributing guide"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup moderation logs",
+                "permalink": "/docs/basics/setup-moderation-logs"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Welcome to my guide and documentation! This guide will let you know how to setup each features correctly, as well as walking you through every command that i deliver! Before we begin, here are some additional information that you should note:",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Inviting Kiri",
+                "permalink": "/docs/basics/inviting"
               }
             }
           ]

@@ -8,7 +8,7 @@
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
   "permalink": "/docs/tutorial-basics/create-a-blog-post",
-  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/create-a-blog-post.md",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/tutorial-basics/create-a-blog-post.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "title": "Inviting Kiri",
+    "permalink": "/docs/tutorial-basics/inviting"
   },
   "next": {
     "title": "Markdown Features",

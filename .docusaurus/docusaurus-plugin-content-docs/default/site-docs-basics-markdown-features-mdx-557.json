@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/markdown-features",
+  "id": "basics/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/basics/markdown-features.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/markdown-features",
+  "permalink": "/docs/basics/markdown-features",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up server prefix",
+    "permalink": "/docs/basics/setup-prefix"
+  },
+  "next": {
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
+  }
+}

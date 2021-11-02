@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/create-a-blog-post",
+  "id": "basics/create-a-blog-post",
+  "isDocsHomePage": false,
+  "title": "Setup moderation logs",
+  "description": "For each moderative action (such as kick, ban, prune), i also send logs so you can keep track of those update easily through a channel. This guide will guide you through the setup of moderation logs, and what i will and won't log.",
+  "source": "@site/docs/basics/create-a-blog-post.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/create-a-blog-post",
+  "permalink": "/docs/basics/create-a-blog-post",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Setup moderation logs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up server prefix",
+    "permalink": "/docs/basics/setup-prefix"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/basics/markdown-features"
+  }
+}

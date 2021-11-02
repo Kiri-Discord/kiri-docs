@@ -24,7 +24,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/',
+                    editUrl: 'https://github.com/Kiri-Discord/kiri-docs/tree/main/',
                 },
                 blog: {
                     showReadingTime: true,
@@ -47,14 +47,12 @@ const config = {
                 alt: 'Kiri logo',
                 src: 'img/logo.png',
             },
-            items: [
-
-                // {
-                //     type: 'doc',
-                //     docId: 'intro',
-                //     position: 'left',
-                //     label: 'Help',
-                // },
+            items: [{
+                    type: 'doc',
+                    docId: 'intro',
+                    position: 'left',
+                    label: 'Help and Documentation',
+                },
                 {
                     to: '/faq',
                     position: 'left',

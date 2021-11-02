@@ -8,7 +8,7 @@
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
   "permalink": "/docs/tutorial-basics/create-a-page",
-  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-basics/create-a-page.md",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/tutorial-basics/create-a-page.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial Intro",
+    "title": "👋🏻 Introduction",
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "title": "Inviting Kiri",
+    "permalink": "/docs/tutorial-basics/inviting"
   }
 }

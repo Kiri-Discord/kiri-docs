@@ -1,0 +1,24 @@
+{
+  "unversionedId": "contributing",
+  "id": "contributing",
+  "isDocsHomePage": false,
+  "title": "Contributing guide",
+  "description": "This guide is still work in progress 🥰 If you want to contribute to this guide, please consider make your changes and open a pull request at my GitHub repo",
+  "source": "@site/docs/contributing.md",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/docs/contributing",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Contributing guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
+  }
+}

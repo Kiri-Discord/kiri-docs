@@ -11,48 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "basics/inviting",
+              "path": "/docs/basics/inviting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/setup-moderation-logs",
+              "path": "/docs/basics/setup-moderation-logs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/setup-permission",
+              "path": "/docs/basics/setup-permission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/setup-prefix",
+              "path": "/docs/basics/setup-prefix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/docs/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             }
           ]

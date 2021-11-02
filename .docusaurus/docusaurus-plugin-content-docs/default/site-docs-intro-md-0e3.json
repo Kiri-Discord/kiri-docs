@@ -2,22 +2,23 @@
   "unversionedId": "intro",
   "id": "intro",
   "isDocsHomePage": false,
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Introduction",
+  "description": "Welcome to my guide and documentation! This guide will let you know how to setup each features correctly, as well as walking you through every command that i deliver! Before we begin, here are some additional information that you should note:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
-  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/intro.md",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "Introduction"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Inviting Kiri",
+    "permalink": "/docs/basics/inviting"
   }
 }

@@ -8,7 +8,7 @@
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
   "permalink": "/docs/tutorial-extras/manage-docs-versions",
-  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/tutorial-extras/manage-docs-versions.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Congratulations!",
-    "permalink": "/docs/tutorial-basics/congratulations"
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
   },
   "next": {
     "title": "Translate your site",

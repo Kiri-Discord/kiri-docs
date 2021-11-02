@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/setup-moderation-logs",
+  "id": "basics/setup-moderation-logs",
+  "isDocsHomePage": false,
+  "title": "Setup moderation logs",
+  "description": "For each moderative action (such as kick, ban, prune), i also send logs so you can keep track of those update easily through a channel. This guide will guide you through the setup of moderation logs, and what i will and won't log.",
+  "source": "@site/docs/basics/setup-moderation-logs.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/setup-moderation-logs",
+  "permalink": "/docs/basics/setup-moderation-logs",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-moderation-logs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Setup moderation logs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up server prefix",
+    "permalink": "/docs/basics/setup-prefix"
+  },
+  "next": {
+    "title": "Contributing guide",
+    "permalink": "/docs/contributing"
+  }
+}

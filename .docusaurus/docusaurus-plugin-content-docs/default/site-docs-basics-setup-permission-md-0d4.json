@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/setup-permission",
+  "id": "basics/setup-permission",
+  "isDocsHomePage": false,
+  "title": "Setting up permission",
+  "description": "I also needs several permissions to be able to provides you functionality and features. Below",
+  "source": "@site/docs/basics/setup-permission.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/setup-permission",
+  "permalink": "/docs/basics/setup-permission",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-permission.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Setting up permission"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inviting Kiri",
+    "permalink": "/docs/basics/inviting"
+  },
+  "next": {
+    "title": "Setting up server prefix",
+    "permalink": "/docs/basics/setup-prefix"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/inviting",
+  "id": "basics/inviting",
+  "isDocsHomePage": false,
+  "title": "Inviting Kiri",
+  "description": "I can either be invited to your server through the default invite link, or via the top.gg website.",
+  "source": "@site/docs/basics/inviting.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/inviting",
+  "permalink": "/docs/basics/inviting",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/inviting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Setting up permission",
+    "permalink": "/docs/basics/setup-permission"
+  }
+}
