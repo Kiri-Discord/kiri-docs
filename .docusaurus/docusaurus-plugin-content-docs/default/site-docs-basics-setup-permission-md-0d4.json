@@ -3,7 +3,7 @@
   "id": "basics/setup-permission",
   "isDocsHomePage": false,
   "title": "Setting up permission",
-  "description": "I also needs several permissions to be able to provides you functionality and features. Below",
+  "description": "Setting up permissions for using Kiri",
   "source": "@site/docs/basics/setup-permission.md",
   "sourceDirName": "basics",
   "slug": "/basics/setup-permission",
@@ -14,7 +14,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "title": "Setting up permission"
+    "title": "Setting up permission",
+    "description": "Setting up permissions for using Kiri"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

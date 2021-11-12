@@ -8,7 +8,7 @@ description: Frequent Asked Question about Kiri's features and command.
 ### Why isn't Kiri responding?
 
 * Make sure Kiri have the permission to view the channel and send messages to it. Read more about setting up permission [here](/docs/basics/setup-permission)
-* Kiri might be restarting or is experiencing from downtime. To be updated to the status, please join our support server.
+* Kiri might be restarting or is experiencing from downtime. To be updated to the status, please join our support server or use `k!update` to get notified of new update and fetch recent ones.
 * You are on cooldown! Normally she will react with a turtle emoji on your command if she has permission to tell you, if no permission is given, there will be no error shown
 
 ### What is her prefix? How do i change it?

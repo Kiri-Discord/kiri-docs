@@ -1,6 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Contributing guide
+description: A instruction which help you contribute to the documentation
 ---
 
 # Contributing guide

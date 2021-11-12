@@ -3,7 +3,7 @@
   "id": "basics/setup-moderation-logs",
   "isDocsHomePage": false,
   "title": "Setup moderation logs",
-  "description": "For each moderative action (such as kick, ban, prune), i also send logs so you can keep track of those update easily through a channel. This guide will guide you through the setup of moderation logs, and what i will and won't log.",
+  "description": "Setting up your Kiri moderation logs",
   "source": "@site/docs/basics/setup-moderation-logs.md",
   "sourceDirName": "basics",
   "slug": "/basics/setup-moderation-logs",
@@ -14,7 +14,8 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4,
-    "title": "Setup moderation logs"
+    "title": "Setup moderation logs",
+    "description": "Setting up your Kiri moderation logs"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -22,7 +23,7 @@
     "permalink": "/docs/basics/setup-prefix"
   },
   "next": {
-    "title": "Contributing guide",
-    "permalink": "/docs/contributing"
+    "title": "Introduction",
+    "permalink": "/docs/popular-guide/verification-portal/introduction"
   }
 }

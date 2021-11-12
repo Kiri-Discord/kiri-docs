@@ -49,6 +49,30 @@
                 ]
               },
               {
+                "type": "category",
+                "label": "Popular guide",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Verification portal",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "popular-guide/verification-portal/introduction"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "popular-guide/verification-portal/setting-up"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "type": "doc",
                 "id": "contributing"
               }
@@ -60,7 +84,7 @@
               "id": "basics/inviting",
               "isDocsHomePage": false,
               "title": "Inviting Kiri",
-              "description": "I can either be invited to your server through the default invite link, or via the top.gg website.",
+              "description": "Inviting Kiri to your server",
               "source": "@site/docs/basics/inviting.md",
               "sourceDirName": "basics",
               "slug": "/basics/inviting",
@@ -70,7 +94,8 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "description": "Inviting Kiri to your server"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -87,7 +112,7 @@
               "id": "basics/setup-moderation-logs",
               "isDocsHomePage": false,
               "title": "Setup moderation logs",
-              "description": "For each moderative action (such as kick, ban, prune), i also send logs so you can keep track of those update easily through a channel. This guide will guide you through the setup of moderation logs, and what i will and won't log.",
+              "description": "Setting up your Kiri moderation logs",
               "source": "@site/docs/basics/setup-moderation-logs.md",
               "sourceDirName": "basics",
               "slug": "/basics/setup-moderation-logs",
@@ -98,7 +123,8 @@
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_position": 4,
-                "title": "Setup moderation logs"
+                "title": "Setup moderation logs",
+                "description": "Setting up your Kiri moderation logs"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -106,8 +132,8 @@
                 "permalink": "/docs/basics/setup-prefix"
               },
               "next": {
-                "title": "Contributing guide",
-                "permalink": "/docs/contributing"
+                "title": "Introduction",
+                "permalink": "/docs/popular-guide/verification-portal/introduction"
               }
             },
             {
@@ -115,7 +141,7 @@
               "id": "basics/setup-permission",
               "isDocsHomePage": false,
               "title": "Setting up permission",
-              "description": "I also needs several permissions to be able to provides you functionality and features. Below",
+              "description": "Setting up permissions for using Kiri",
               "source": "@site/docs/basics/setup-permission.md",
               "sourceDirName": "basics",
               "slug": "/basics/setup-permission",
@@ -126,7 +152,8 @@
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2,
-                "title": "Setting up permission"
+                "title": "Setting up permission",
+                "description": "Setting up permissions for using Kiri"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -171,7 +198,7 @@
               "id": "contributing",
               "isDocsHomePage": false,
               "title": "Contributing guide",
-              "description": "This guide is still work in progress 🥰 If you want to contribute to this guide, please consider make your changes and open a pull request at my GitHub repo",
+              "description": "A instruction which help you contribute to the documentation",
               "source": "@site/docs/contributing.md",
               "sourceDirName": ".",
               "slug": "/contributing",
@@ -179,15 +206,16 @@
               "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/contributing.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3,
-                "title": "Contributing guide"
+                "sidebar_position": 4,
+                "title": "Contributing guide",
+                "description": "A instruction which help you contribute to the documentation"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Setup moderation logs",
-                "permalink": "/docs/basics/setup-moderation-logs"
+                "title": "Setting up verification portal",
+                "permalink": "/docs/popular-guide/verification-portal/setting-up"
               }
             },
             {
@@ -195,7 +223,7 @@
               "id": "intro",
               "isDocsHomePage": false,
               "title": "Introduction",
-              "description": "Welcome to my guide and documentation! This guide will let you know how to setup each features correctly, as well as walking you through every command that i deliver! Before we begin, here are some additional information that you should note:",
+              "description": "Welcome to Kiri's guide and documentation!",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -206,12 +234,71 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1,
-                "title": "Introduction"
+                "title": "Introduction",
+                "description": "Welcome to Kiri's guide and documentation!"
               },
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Inviting Kiri",
                 "permalink": "/docs/basics/inviting"
+              }
+            },
+            {
+              "unversionedId": "popular-guide/verification-portal/introduction",
+              "id": "popular-guide/verification-portal/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Introduction to Kiri's verification feature!",
+              "source": "@site/docs/popular-guide/verification-portal/introduction.md",
+              "sourceDirName": "popular-guide/verification-portal",
+              "slug": "/popular-guide/verification-portal/introduction",
+              "permalink": "/docs/popular-guide/verification-portal/introduction",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/verification-portal/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction",
+                "description": "Introduction to Kiri's verification feature!"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup moderation logs",
+                "permalink": "/docs/basics/setup-moderation-logs"
+              },
+              "next": {
+                "title": "Setting up verification portal",
+                "permalink": "/docs/popular-guide/verification-portal/setting-up"
+              }
+            },
+            {
+              "unversionedId": "popular-guide/verification-portal/setting-up",
+              "id": "popular-guide/verification-portal/setting-up",
+              "isDocsHomePage": false,
+              "title": "Setting up verification portal",
+              "description": "A guide show you how to set up verification portal",
+              "source": "@site/docs/popular-guide/verification-portal/setting-up.md",
+              "sourceDirName": "popular-guide/verification-portal",
+              "slug": "/popular-guide/verification-portal/setting-up",
+              "permalink": "/docs/popular-guide/verification-portal/setting-up",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/verification-portal/setting-up.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Setting up verification portal",
+                "description": "A guide show you how to set up verification portal"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/popular-guide/verification-portal/introduction"
+              },
+              "next": {
+                "title": "Contributing guide",
+                "permalink": "/docs/contributing"
               }
             }
           ]

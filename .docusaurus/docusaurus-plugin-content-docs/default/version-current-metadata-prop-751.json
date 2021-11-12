@@ -42,6 +42,32 @@
         ]
       },
       {
+        "type": "category",
+        "label": "Popular guide",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Verification portal",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Introduction",
+                "href": "/docs/popular-guide/verification-portal/introduction"
+              },
+              {
+                "type": "link",
+                "label": "Setting up verification portal",
+                "href": "/docs/popular-guide/verification-portal/setting-up"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Contributing guide",
         "href": "/docs/contributing"

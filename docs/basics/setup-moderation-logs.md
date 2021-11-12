@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Setup moderation logs
+description: Setting up your Kiri moderation logs
 ---
 
 # 📖 Setup moderation logs channel

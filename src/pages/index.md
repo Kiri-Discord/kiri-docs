@@ -4,16 +4,16 @@ description: Your loyal assistant, packed with levelings, fun ecomony and many m
 ---
 
 <p align="center">
-<img alt="Kiri Avatar" src="https://cdn.discordapp.com/avatars/859116638820761630/a4b5a360d083600083240331d1f67c51.png?width=100&height=100" />
+<img alt="Kiri Avatar" src="/static/img/logo.png" width="150"/>
 </p>
 
 <h1><center>🐱 Kiri 🐱</center></h1>
 ==========
 
-Your loyal assistant, packed with levelings, fun ecomony and many more features to bring entertainment to your server!  
-I'm still in **early access beta** so please join our support server immediately if you get stuck while using me!  
+I'm Kiri, an assistant that provides all around entertainment and fun to your server with games, memes and economy (o^▽^o)
+I'm still in **early access beta** so please join our support server immediately if you get stuck while using me 😐
   
-<center><a href="https://discord.gg/D6rWrvS">Community server</a> · <a href="https://discord.gg/kJRAjMyEkY">Support server</a> . <a href="https://discord.com/api/oauth2/authorize?client_id=859116638820761630&permissions=4294831607&scope=bot%20applications.commands">Invite me</a></center>
+<center><a href="https://discord.gg/D6rWrvS">Community server</a> · <a href="https://discord.gg/kJRAjMyEkY">Support server</a> . <a href="https://discord.com/oauth2/authorize?client_id=859116638820761630&permissions=139556416887&scope=bot%20applications.commands">Invite me</a></center>
   
 
 ✨ My notable features

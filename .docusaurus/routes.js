@@ -105,7 +105,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','57c'),
+    component: ComponentCreator('/docs','cfc'),
     routes: [
       {
         path: '/docs/basics/inviting',
@@ -140,6 +140,18 @@ export default [
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','aed'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/popular-guide/verification-portal/introduction',
+        component: ComponentCreator('/docs/popular-guide/verification-portal/introduction','c36'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/popular-guide/verification-portal/setting-up',
+        component: ComponentCreator('/docs/popular-guide/verification-portal/setting-up','9a3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

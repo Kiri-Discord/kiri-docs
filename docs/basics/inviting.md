@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Inviting Kiri to your server
 ---
 
 # Inviting Kiri

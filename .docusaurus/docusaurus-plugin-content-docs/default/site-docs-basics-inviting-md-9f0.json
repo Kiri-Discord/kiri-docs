@@ -3,7 +3,7 @@
   "id": "basics/inviting",
   "isDocsHomePage": false,
   "title": "Inviting Kiri",
-  "description": "I can either be invited to your server through the default invite link, or via the top.gg website.",
+  "description": "Inviting Kiri to your server",
   "source": "@site/docs/basics/inviting.md",
   "sourceDirName": "basics",
   "slug": "/basics/inviting",
@@ -13,7 +13,8 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "description": "Inviting Kiri to your server"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

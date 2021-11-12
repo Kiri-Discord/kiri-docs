@@ -39,6 +39,16 @@
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "popular-guide/verification-portal/introduction",
+              "path": "/docs/popular-guide/verification-portal/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "popular-guide/verification-portal/setting-up",
+              "path": "/docs/popular-guide/verification-portal/setting-up",
+              "sidebar": "tutorialSidebar"
             }
           ]
         }

@@ -51,7 +51,7 @@ export default {
           "label": "Privacy Policy"
         },
         {
-          "href": "https://discord.com/api/oauth2/authorize?client_id=859116638820761630&permissions=4294831607&scope=bot%20applications.commands",
+          "href": "https://discord.com/oauth2/authorize?client_id=859116638820761630&permissions=139556416887&scope=bot%20applications.commands",
           "label": "Invite me",
           "position": "right"
         },

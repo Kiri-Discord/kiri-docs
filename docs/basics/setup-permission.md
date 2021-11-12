@@ -1,12 +1,12 @@
 ---
 sidebar_position: 2
 title: Setting up permission
+description: Setting up permissions for using Kiri
 ---
 
 # 🔑 Setting up permission
 
-I also needs several permissions to be able to provides you functionality and features. Below
-is every permission that i need, and what features or commands you lose if you
+I also needs several permissions to be able to provides you functionality and features. Below is every permission that i need, and what features or commands you lose if you
 don't grant that permission 😔
 
 :::note

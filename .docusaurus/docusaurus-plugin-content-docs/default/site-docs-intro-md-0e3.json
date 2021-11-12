@@ -3,7 +3,7 @@
   "id": "intro",
   "isDocsHomePage": false,
   "title": "Introduction",
-  "description": "Welcome to my guide and documentation! This guide will let you know how to setup each features correctly, as well as walking you through every command that i deliver! Before we begin, here are some additional information that you should note:",
+  "description": "Welcome to Kiri's guide and documentation!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -14,7 +14,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "title": "Introduction"
+    "title": "Introduction",
+    "description": "Welcome to Kiri's guide and documentation!"
   },
   "sidebar": "tutorialSidebar",
   "next": {
