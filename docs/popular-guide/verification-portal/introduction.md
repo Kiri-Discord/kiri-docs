@@ -6,7 +6,7 @@ description: Introduction to Kiri's verification feature!
 
 # Introduction to verification
 
-Kiri comes with an awesome verification system made to separate self bots from genuine members. As we all know, Discord is against bots that blatantly kick new accounts. But, we also hate raiders and usually bad users joining your server and taking advantage of that. this is where the verification comes in handy.
+Kiri comes with an awesome verification system made to separate self bots from genuine members. As we all know, Discord is against bots that blatantly kick new accounts. But, we also hate raiders and usually bad users joining your server and taking advantage of that. This is where the verification comes in handy.
 
 ## Verification process
 
