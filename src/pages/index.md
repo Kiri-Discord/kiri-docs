@@ -48,6 +48,7 @@ Curious to wait? Here are some image to satisfy your curiosity!
 ![Stackable meme generator](https://i.imgur.com/vDOx4cP.png)
 ![Embed creator](https://i.imgur.com/GSe9vQh.png)
 ![Fun games to enjoy](https://i.imgur.com/u2Zpb7e.png)
+![Scrolling lyrics/karaoke](https://i.imgur.com/e9ySwYi.png)
 
 🛠️ Help
 --------
