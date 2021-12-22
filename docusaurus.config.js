@@ -6,6 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+    scripts: [
+        {
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1170026826543915',
+            anonymous: true,
+        },
+    ],
     title: 'Kiri',
     tagline: 'Your devotive Discord bot',
     url: 'https://kiribot.xyz',

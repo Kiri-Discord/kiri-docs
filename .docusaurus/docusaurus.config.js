@@ -1,4 +1,10 @@
 export default {
+  "scripts": [
+    {
+      "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1170026826543915",
+      "anonymous": true
+    }
+  ],
   "title": "Kiri",
   "tagline": "Your devotive Discord bot",
   "url": "https://kiribot.xyz",
@@ -13,7 +19,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "F:\\handler-template\\kiri-docs\\sidebars.js",
+          "sidebarPath": "C:\\Users\\Administrator\\Documents\\GitHub\\kiri-docs\\sidebars.js",
           "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/"
         },
         "blog": {
@@ -21,7 +27,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "F:\\handler-template\\kiri-docs\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Administrator\\Documents\\GitHub\\kiri-docs\\src\\css\\custom.css"
         }
       }
     ]

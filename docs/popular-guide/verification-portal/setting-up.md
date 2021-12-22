@@ -14,4 +14,4 @@ Kick timeout duration should not be mistaken with verification link expire time!
 
 ### Setting up the roles:
 
-To begin with, you should create a role that give users access to features that you want to allow newcomers. That being said, the `@everyone` default permission should denied all access to 
+To begin with, you should create a role that give users access to features that you want to allow newcomers. That being said, the `@everyone` default role should deny all access to the server, and when members are verified, they will get the role that gain them access, which is the role that we created earlier.
