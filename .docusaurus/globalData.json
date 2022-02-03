@@ -41,16 +41,24 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "popular-guide/verification-portal/introduction",
-              "path": "/docs/popular-guide/verification-portal/introduction",
+              "id": "popular-guide/karaoke/introduction",
+              "path": "/docs/popular-guide/karaoke/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "popular-guide/verification-portal/setting-up",
-              "path": "/docs/popular-guide/verification-portal/setting-up",
+              "id": "popular-guide/karaoke/setting-up",
+              "path": "/docs/popular-guide/karaoke/setting-up",
               "sidebar": "tutorialSidebar"
             }
-          ]
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
         }
       ]
     }

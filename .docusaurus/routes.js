@@ -105,7 +105,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','cfc'),
+    component: ComponentCreator('/docs','0d0'),
     routes: [
       {
         path: '/docs/basics/inviting',
@@ -144,14 +144,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/popular-guide/verification-portal/introduction',
-        component: ComponentCreator('/docs/popular-guide/verification-portal/introduction','c36'),
+        path: '/docs/popular-guide/karaoke/introduction',
+        component: ComponentCreator('/docs/popular-guide/karaoke/introduction','ea2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/popular-guide/verification-portal/setting-up',
-        component: ComponentCreator('/docs/popular-guide/verification-portal/setting-up','9a3'),
+        path: '/docs/popular-guide/karaoke/setting-up',
+        component: ComponentCreator('/docs/popular-guide/karaoke/setting-up','504'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

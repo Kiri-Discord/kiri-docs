@@ -3,7 +3,7 @@
   "id": "popular-guide/verification-portal/setting-up",
   "isDocsHomePage": false,
   "title": "Setting up verification portal",
-  "description": "A guide show you how to set up verification portal",
+  "description": "A guide that explain how to set up verification portal",
   "source": "@site/docs/popular-guide/verification-portal/setting-up.md",
   "sourceDirName": "popular-guide/verification-portal",
   "slug": "/popular-guide/verification-portal/setting-up",
@@ -15,7 +15,7 @@
   "frontMatter": {
     "sidebar_position": 2,
     "title": "Setting up verification portal",
-    "description": "A guide show you how to set up verification portal"
+    "description": "A guide that explain how to set up verification portal"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

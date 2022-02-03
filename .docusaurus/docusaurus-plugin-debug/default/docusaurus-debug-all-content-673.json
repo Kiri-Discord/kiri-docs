@@ -17,7 +17,222 @@
           "sidebarFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\kiri-docs\\sidebars.js",
           "contentPath": "C:\\Users\\Administrator\\Documents\\GitHub\\kiri-docs\\docs",
           "contentPathLocalized": "C:\\Users\\Administrator\\Documents\\GitHub\\kiri-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
-          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "basics/inviting",
+              "id": "basics/inviting",
+              "title": "Inviting Kiri",
+              "description": "Inviting Kiri to your server",
+              "source": "@site/docs/basics/inviting.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/inviting",
+              "permalink": "/docs/basics/inviting",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/inviting.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "description": "Inviting Kiri to your server"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Setting up permission",
+                "permalink": "/docs/basics/setup-permission"
+              }
+            },
+            {
+              "unversionedId": "basics/setup-moderation-logs",
+              "id": "basics/setup-moderation-logs",
+              "title": "Setup moderation logs",
+              "description": "Setting up your Kiri moderation logs",
+              "source": "@site/docs/basics/setup-moderation-logs.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-moderation-logs",
+              "permalink": "/docs/basics/setup-moderation-logs",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-moderation-logs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Setup moderation logs",
+                "description": "Setting up your Kiri moderation logs"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up server prefix",
+                "permalink": "/docs/basics/setup-prefix"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/popular-guide/karaoke/introduction"
+              }
+            },
+            {
+              "unversionedId": "basics/setup-permission",
+              "id": "basics/setup-permission",
+              "title": "Setting up permission",
+              "description": "Setting up permissions for using Kiri",
+              "source": "@site/docs/basics/setup-permission.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-permission",
+              "permalink": "/docs/basics/setup-permission",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-permission.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Setting up permission",
+                "description": "Setting up permissions for using Kiri"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Inviting Kiri",
+                "permalink": "/docs/basics/inviting"
+              },
+              "next": {
+                "title": "Setting up server prefix",
+                "permalink": "/docs/basics/setup-prefix"
+              }
+            },
+            {
+              "unversionedId": "basics/setup-prefix",
+              "id": "basics/setup-prefix",
+              "title": "Setting up server prefix",
+              "description": "After setting up your permission you can even also customize my prefix to your liking in the server!",
+              "source": "@site/docs/basics/setup-prefix.md",
+              "sourceDirName": "basics",
+              "slug": "/basics/setup-prefix",
+              "permalink": "/docs/basics/setup-prefix",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-prefix.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Setting up server prefix"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up permission",
+                "permalink": "/docs/basics/setup-permission"
+              },
+              "next": {
+                "title": "Setup moderation logs",
+                "permalink": "/docs/basics/setup-moderation-logs"
+              }
+            },
+            {
+              "unversionedId": "contributing",
+              "id": "contributing",
+              "title": "Contributing guide",
+              "description": "A instruction which help you contribute to the documentation",
+              "source": "@site/docs/contributing.md",
+              "sourceDirName": ".",
+              "slug": "/contributing",
+              "permalink": "/docs/contributing",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/contributing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Contributing guide",
+                "description": "A instruction which help you contribute to the documentation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up",
+                "permalink": "/docs/popular-guide/karaoke/setting-up"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to Kiri's guide and documentation!",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction",
+                "description": "Welcome to Kiri's guide and documentation!"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Inviting Kiri",
+                "permalink": "/docs/basics/inviting"
+              }
+            },
+            {
+              "unversionedId": "popular-guide/karaoke/introduction",
+              "id": "popular-guide/karaoke/introduction",
+              "title": "Introduction",
+              "description": "Introduction to Kiri's scrolling-lyrics feature!",
+              "source": "@site/docs/popular-guide/karaoke/introduction.md",
+              "sourceDirName": "popular-guide/karaoke",
+              "slug": "/popular-guide/karaoke/introduction",
+              "permalink": "/docs/popular-guide/karaoke/introduction",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/karaoke/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction",
+                "description": "Introduction to Kiri's scrolling-lyrics feature!"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setup moderation logs",
+                "permalink": "/docs/basics/setup-moderation-logs"
+              },
+              "next": {
+                "title": "Setting up",
+                "permalink": "/docs/popular-guide/karaoke/setting-up"
+              }
+            },
+            {
+              "unversionedId": "popular-guide/karaoke/setting-up",
+              "id": "popular-guide/karaoke/setting-up",
+              "title": "Setting up",
+              "description": "Full guide on how to setup Kiri's scrolling-lyrics feature",
+              "source": "@site/docs/popular-guide/karaoke/setting-up.md",
+              "sourceDirName": "popular-guide/karaoke",
+              "slug": "/popular-guide/karaoke/setting-up",
+              "permalink": "/docs/popular-guide/karaoke/setting-up",
+              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/karaoke/setting-up.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Setting up",
+                "description": "Full guide on how to setup Kiri's scrolling-lyrics feature"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/popular-guide/karaoke/introduction"
+              },
+              "next": {
+                "title": "Contributing guide",
+                "permalink": "/docs/contributing"
+              }
+            }
+          ],
           "sidebars": {
             "tutorialSidebar": [
               {
@@ -56,17 +271,17 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "Verification portal",
+                    "label": "Setting up real-time lyrics feature",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
-                        "id": "popular-guide/verification-portal/introduction"
+                        "id": "popular-guide/karaoke/introduction"
                       },
                       {
                         "type": "doc",
-                        "id": "popular-guide/verification-portal/setting-up"
+                        "id": "popular-guide/karaoke/setting-up"
                       }
                     ]
                   }
@@ -78,230 +293,8 @@
               }
             ]
           },
-          "docs": [
-            {
-              "unversionedId": "basics/inviting",
-              "id": "basics/inviting",
-              "isDocsHomePage": false,
-              "title": "Inviting Kiri",
-              "description": "Inviting Kiri to your server",
-              "source": "@site/docs/basics/inviting.md",
-              "sourceDirName": "basics",
-              "slug": "/basics/inviting",
-              "permalink": "/docs/basics/inviting",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/inviting.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1,
-                "description": "Inviting Kiri to your server"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/intro"
-              },
-              "next": {
-                "title": "Setting up permission",
-                "permalink": "/docs/basics/setup-permission"
-              }
-            },
-            {
-              "unversionedId": "basics/setup-moderation-logs",
-              "id": "basics/setup-moderation-logs",
-              "isDocsHomePage": false,
-              "title": "Setup moderation logs",
-              "description": "Setting up your Kiri moderation logs",
-              "source": "@site/docs/basics/setup-moderation-logs.md",
-              "sourceDirName": "basics",
-              "slug": "/basics/setup-moderation-logs",
-              "permalink": "/docs/basics/setup-moderation-logs",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-moderation-logs.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4,
-                "title": "Setup moderation logs",
-                "description": "Setting up your Kiri moderation logs"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Setting up server prefix",
-                "permalink": "/docs/basics/setup-prefix"
-              },
-              "next": {
-                "title": "Introduction",
-                "permalink": "/docs/popular-guide/verification-portal/introduction"
-              }
-            },
-            {
-              "unversionedId": "basics/setup-permission",
-              "id": "basics/setup-permission",
-              "isDocsHomePage": false,
-              "title": "Setting up permission",
-              "description": "Setting up permissions for using Kiri",
-              "source": "@site/docs/basics/setup-permission.md",
-              "sourceDirName": "basics",
-              "slug": "/basics/setup-permission",
-              "permalink": "/docs/basics/setup-permission",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-permission.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2,
-                "title": "Setting up permission",
-                "description": "Setting up permissions for using Kiri"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Inviting Kiri",
-                "permalink": "/docs/basics/inviting"
-              },
-              "next": {
-                "title": "Setting up server prefix",
-                "permalink": "/docs/basics/setup-prefix"
-              }
-            },
-            {
-              "unversionedId": "basics/setup-prefix",
-              "id": "basics/setup-prefix",
-              "isDocsHomePage": false,
-              "title": "Setting up server prefix",
-              "description": "After setting up your permission you can even also customize my prefix to your liking in the server!",
-              "source": "@site/docs/basics/setup-prefix.md",
-              "sourceDirName": "basics",
-              "slug": "/basics/setup-prefix",
-              "permalink": "/docs/basics/setup-prefix",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/basics/setup-prefix.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3,
-                "title": "Setting up server prefix"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Setting up permission",
-                "permalink": "/docs/basics/setup-permission"
-              },
-              "next": {
-                "title": "Setup moderation logs",
-                "permalink": "/docs/basics/setup-moderation-logs"
-              }
-            },
-            {
-              "unversionedId": "contributing",
-              "id": "contributing",
-              "isDocsHomePage": false,
-              "title": "Contributing guide",
-              "description": "A instruction which help you contribute to the documentation",
-              "source": "@site/docs/contributing.md",
-              "sourceDirName": ".",
-              "slug": "/contributing",
-              "permalink": "/docs/contributing",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/contributing.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4,
-                "title": "Contributing guide",
-                "description": "A instruction which help you contribute to the documentation"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Setting up verification portal",
-                "permalink": "/docs/popular-guide/verification-portal/setting-up"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Welcome to Kiri's guide and documentation!",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1,
-                "title": "Introduction",
-                "description": "Welcome to Kiri's guide and documentation!"
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Inviting Kiri",
-                "permalink": "/docs/basics/inviting"
-              }
-            },
-            {
-              "unversionedId": "popular-guide/verification-portal/introduction",
-              "id": "popular-guide/verification-portal/introduction",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Introduction to Kiri's verification feature!",
-              "source": "@site/docs/popular-guide/verification-portal/introduction.md",
-              "sourceDirName": "popular-guide/verification-portal",
-              "slug": "/popular-guide/verification-portal/introduction",
-              "permalink": "/docs/popular-guide/verification-portal/introduction",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/verification-portal/introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1,
-                "title": "Introduction",
-                "description": "Introduction to Kiri's verification feature!"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Setup moderation logs",
-                "permalink": "/docs/basics/setup-moderation-logs"
-              },
-              "next": {
-                "title": "Setting up verification portal",
-                "permalink": "/docs/popular-guide/verification-portal/setting-up"
-              }
-            },
-            {
-              "unversionedId": "popular-guide/verification-portal/setting-up",
-              "id": "popular-guide/verification-portal/setting-up",
-              "isDocsHomePage": false,
-              "title": "Setting up verification portal",
-              "description": "A guide show you how to set up verification portal",
-              "source": "@site/docs/popular-guide/verification-portal/setting-up.md",
-              "sourceDirName": "popular-guide/verification-portal",
-              "slug": "/popular-guide/verification-portal/setting-up",
-              "permalink": "/docs/popular-guide/verification-portal/setting-up",
-              "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/verification-portal/setting-up.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2,
-                "title": "Setting up verification portal",
-                "description": "A guide show you how to set up verification portal"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/popular-guide/verification-portal/introduction"
-              },
-              "next": {
-                "title": "Contributing guide",
-                "permalink": "/docs/contributing"
-              }
-            }
-          ]
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
         }
       ]
     }
@@ -352,6 +345,19 @@
                 "key": "yangshun"
               }
             ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
             "nextItem": {
               "title": "MDX Blog Post",
               "permalink": "/blog/mdx-blog-post"
@@ -386,6 +392,16 @@
                 "key": "slorber"
               }
             ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Welcome",
               "permalink": "/blog/welcome"
@@ -428,6 +444,15 @@
                 "key": "endi"
               }
             ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "MDX Blog Post",
               "permalink": "/blog/mdx-blog-post"
@@ -470,6 +495,21 @@
                 "imageURL": "https://github.com/wgao19.png"
               }
             ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Long Blog Post",
               "permalink": "/blog/long-blog-post"
@@ -541,17 +581,35 @@
       {
         "type": "mdx",
         "permalink": "/faq",
-        "source": "@site/src/pages/faq.md"
+        "source": "@site/src/pages/faq.md",
+        "title": "Frequent asked Questions",
+        "description": "Frequent Asked Question about Kiri's features and command.",
+        "frontMatter": {
+          "title": "Frequent asked Questions",
+          "description": "Frequent Asked Question about Kiri's features and command."
+        }
       },
       {
         "type": "mdx",
         "permalink": "/",
-        "source": "@site/src/pages/index.md"
+        "source": "@site/src/pages/index.md",
+        "title": "Welcome",
+        "description": "Your loyal assistant, packed with levelings, fun ecomony and many more features to bring entertainment to your server!",
+        "frontMatter": {
+          "title": "Welcome",
+          "description": "Your loyal assistant, packed with levelings, fun ecomony and many more features to bring entertainment to your server!"
+        }
       },
       {
         "type": "mdx",
         "permalink": "/privacy",
-        "source": "@site/src/pages/privacy.md"
+        "source": "@site/src/pages/privacy.md",
+        "title": "Privacy Policy",
+        "description": "Kiri's Privacy Policy",
+        "frontMatter": {
+          "title": "Privacy Policy",
+          "description": "Kiri's Privacy Policy"
+        }
       }
     ]
   },

@@ -23,6 +23,16 @@
       "key": "slorber"
     }
   ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "Welcome",
     "permalink": "/blog/welcome"

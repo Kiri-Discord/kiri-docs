@@ -1,7 +1,6 @@
 {
   "unversionedId": "basics/setup-permission",
   "id": "basics/setup-permission",
-  "isDocsHomePage": false,
   "title": "Setting up permission",
   "description": "Setting up permissions for using Kiri",
   "source": "@site/docs/basics/setup-permission.md",

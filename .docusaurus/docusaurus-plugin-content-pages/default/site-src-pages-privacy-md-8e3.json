@@ -1,5 +1,11 @@
 {
   "type": "mdx",
   "permalink": "/privacy",
-  "source": "@site/src/pages/privacy.md"
+  "source": "@site/src/pages/privacy.md",
+  "title": "Privacy Policy",
+  "description": "Kiri's Privacy Policy",
+  "frontMatter": {
+    "title": "Privacy Policy",
+    "description": "Kiri's Privacy Policy"
+  }
 }

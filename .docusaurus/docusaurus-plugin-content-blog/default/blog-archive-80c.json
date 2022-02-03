@@ -42,6 +42,19 @@
             "key": "yangshun"
           }
         ],
+        "frontMatter": {
+          "slug": "welcome",
+          "title": "Welcome",
+          "authors": [
+            "slorber",
+            "yangshun"
+          ],
+          "tags": [
+            "facebook",
+            "hello",
+            "docusaurus"
+          ]
+        },
         "nextItem": {
           "title": "MDX Blog Post",
           "permalink": "/blog/mdx-blog-post"
@@ -76,6 +89,16 @@
             "key": "slorber"
           }
         ],
+        "frontMatter": {
+          "slug": "mdx-blog-post",
+          "title": "MDX Blog Post",
+          "authors": [
+            "slorber"
+          ],
+          "tags": [
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "Welcome",
           "permalink": "/blog/welcome"
@@ -118,6 +141,15 @@
             "key": "endi"
           }
         ],
+        "frontMatter": {
+          "slug": "long-blog-post",
+          "title": "Long Blog Post",
+          "authors": "endi",
+          "tags": [
+            "hello",
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "MDX Blog Post",
           "permalink": "/blog/mdx-blog-post"
@@ -160,6 +192,21 @@
             "imageURL": "https://github.com/wgao19.png"
           }
         ],
+        "frontMatter": {
+          "slug": "first-blog-post",
+          "title": "First Blog Post",
+          "authors": {
+            "name": "Gao Wei",
+            "title": "Docusaurus Core Team",
+            "url": "https://github.com/wgao19",
+            "image_url": "https://github.com/wgao19.png",
+            "imageURL": "https://github.com/wgao19.png"
+          },
+          "tags": [
+            "hola",
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "Long Blog Post",
           "permalink": "/blog/long-blog-post"

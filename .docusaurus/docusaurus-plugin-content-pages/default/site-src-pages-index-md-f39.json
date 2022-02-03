@@ -1,5 +1,11 @@
 {
   "type": "mdx",
   "permalink": "/",
-  "source": "@site/src/pages/index.md"
+  "source": "@site/src/pages/index.md",
+  "title": "Welcome",
+  "description": "Your loyal assistant, packed with levelings, fun ecomony and many more features to bring entertainment to your server!",
+  "frontMatter": {
+    "title": "Welcome",
+    "description": "Your loyal assistant, packed with levelings, fun ecomony and many more features to bring entertainment to your server!"
+  }
 }

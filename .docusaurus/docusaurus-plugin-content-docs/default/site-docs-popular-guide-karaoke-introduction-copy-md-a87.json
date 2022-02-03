@@ -1,0 +1,28 @@
+{
+  "unversionedId": "popular-guide/karaoke/introduction copy",
+  "id": "popular-guide/karaoke/introduction copy",
+  "title": "Introduction",
+  "description": "Introduction to Kiri's scrolling-lyrics feature!",
+  "source": "@site/docs/popular-guide/karaoke/introduction copy.md",
+  "sourceDirName": "popular-guide/karaoke",
+  "slug": "/popular-guide/karaoke/introduction copy",
+  "permalink": "/docs/popular-guide/karaoke/introduction copy",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/karaoke/introduction copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction",
+    "description": "Introduction to Kiri's scrolling-lyrics feature!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup moderation logs",
+    "permalink": "/docs/basics/setup-moderation-logs"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/popular-guide/karaoke/introduction"
+  }
+}

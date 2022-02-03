@@ -1,0 +1,28 @@
+{
+  "unversionedId": "popular-guide/karaoke/setting-up",
+  "id": "popular-guide/karaoke/setting-up",
+  "title": "Setting up",
+  "description": "Full guide on how to setup Kiri's scrolling-lyrics feature",
+  "source": "@site/docs/popular-guide/karaoke/setting-up.md",
+  "sourceDirName": "popular-guide/karaoke",
+  "slug": "/popular-guide/karaoke/setting-up",
+  "permalink": "/docs/popular-guide/karaoke/setting-up",
+  "editUrl": "https://github.com/Kiri-Discord/kiri-docs/tree/main/docs/popular-guide/karaoke/setting-up.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Setting up",
+    "description": "Full guide on how to setup Kiri's scrolling-lyrics feature"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/popular-guide/karaoke/introduction"
+  },
+  "next": {
+    "title": "Contributing guide",
+    "permalink": "/docs/contributing"
+  }
+}

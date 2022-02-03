@@ -1,7 +1,6 @@
 {
   "unversionedId": "basics/inviting",
   "id": "basics/inviting",
-  "isDocsHomePage": false,
   "title": "Inviting Kiri",
   "description": "Inviting Kiri to your server",
   "source": "@site/docs/basics/inviting.md",

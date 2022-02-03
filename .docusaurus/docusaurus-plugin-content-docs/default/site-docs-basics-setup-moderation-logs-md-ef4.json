@@ -1,7 +1,6 @@
 {
   "unversionedId": "basics/setup-moderation-logs",
   "id": "basics/setup-moderation-logs",
-  "isDocsHomePage": false,
   "title": "Setup moderation logs",
   "description": "Setting up your Kiri moderation logs",
   "source": "@site/docs/basics/setup-moderation-logs.md",
@@ -24,6 +23,6 @@
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/docs/popular-guide/verification-portal/introduction"
+    "permalink": "/docs/popular-guide/karaoke/introduction"
   }
 }

@@ -11,7 +11,8 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro"
+        "href": "/docs/intro",
+        "docId": "intro"
       },
       {
         "type": "category",
@@ -22,22 +23,26 @@
           {
             "type": "link",
             "label": "Inviting Kiri",
-            "href": "/docs/basics/inviting"
+            "href": "/docs/basics/inviting",
+            "docId": "basics/inviting"
           },
           {
             "type": "link",
             "label": "Setting up permission",
-            "href": "/docs/basics/setup-permission"
+            "href": "/docs/basics/setup-permission",
+            "docId": "basics/setup-permission"
           },
           {
             "type": "link",
             "label": "Setting up server prefix",
-            "href": "/docs/basics/setup-prefix"
+            "href": "/docs/basics/setup-prefix",
+            "docId": "basics/setup-prefix"
           },
           {
             "type": "link",
             "label": "Setup moderation logs",
-            "href": "/docs/basics/setup-moderation-logs"
+            "href": "/docs/basics/setup-moderation-logs",
+            "docId": "basics/setup-moderation-logs"
           }
         ]
       },
@@ -49,19 +54,21 @@
         "items": [
           {
             "type": "category",
-            "label": "Verification portal",
+            "label": "Setting up real-time lyrics feature",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/docs/popular-guide/verification-portal/introduction"
+                "href": "/docs/popular-guide/karaoke/introduction",
+                "docId": "popular-guide/karaoke/introduction"
               },
               {
                 "type": "link",
-                "label": "Setting up verification portal",
-                "href": "/docs/popular-guide/verification-portal/setting-up"
+                "label": "Setting up",
+                "href": "/docs/popular-guide/karaoke/setting-up",
+                "docId": "popular-guide/karaoke/setting-up"
               }
             ]
           }
@@ -70,8 +77,59 @@
       {
         "type": "link",
         "label": "Contributing guide",
-        "href": "/docs/contributing"
+        "href": "/docs/contributing",
+        "docId": "contributing"
       }
     ]
+  },
+  "docs": {
+    "basics/inviting": {
+      "id": "basics/inviting",
+      "title": "Inviting Kiri",
+      "description": "Inviting Kiri to your server",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/setup-moderation-logs": {
+      "id": "basics/setup-moderation-logs",
+      "title": "Setup moderation logs",
+      "description": "Setting up your Kiri moderation logs",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/setup-permission": {
+      "id": "basics/setup-permission",
+      "title": "Setting up permission",
+      "description": "Setting up permissions for using Kiri",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/setup-prefix": {
+      "id": "basics/setup-prefix",
+      "title": "Setting up server prefix",
+      "description": "After setting up your permission you can even also customize my prefix to your liking in the server!",
+      "sidebar": "tutorialSidebar"
+    },
+    "contributing": {
+      "id": "contributing",
+      "title": "Contributing guide",
+      "description": "A instruction which help you contribute to the documentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to Kiri's guide and documentation!",
+      "sidebar": "tutorialSidebar"
+    },
+    "popular-guide/karaoke/introduction": {
+      "id": "popular-guide/karaoke/introduction",
+      "title": "Introduction",
+      "description": "Introduction to Kiri's scrolling-lyrics feature!",
+      "sidebar": "tutorialSidebar"
+    },
+    "popular-guide/karaoke/setting-up": {
+      "id": "popular-guide/karaoke/setting-up",
+      "title": "Setting up",
+      "description": "Full guide on how to setup Kiri's scrolling-lyrics feature",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

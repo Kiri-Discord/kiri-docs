@@ -1,7 +1,6 @@
 {
   "unversionedId": "contributing",
   "id": "contributing",
-  "isDocsHomePage": false,
   "title": "Contributing guide",
   "description": "A instruction which help you contribute to the documentation",
   "source": "@site/docs/contributing.md",
@@ -19,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Setting up verification portal",
-    "permalink": "/docs/popular-guide/verification-portal/setting-up"
+    "title": "Setting up",
+    "permalink": "/docs/popular-guide/karaoke/setting-up"
   }
 }

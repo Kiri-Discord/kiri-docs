@@ -1,7 +1,6 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "isDocsHomePage": false,
   "title": "Introduction",
   "description": "Welcome to Kiri's guide and documentation!",
   "source": "@site/docs/intro.md",

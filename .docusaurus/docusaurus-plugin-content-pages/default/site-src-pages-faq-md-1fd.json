@@ -1,5 +1,11 @@
 {
   "type": "mdx",
   "permalink": "/faq",
-  "source": "@site/src/pages/faq.md"
+  "source": "@site/src/pages/faq.md",
+  "title": "Frequent asked Questions",
+  "description": "Frequent Asked Question about Kiri's features and command.",
+  "frontMatter": {
+    "title": "Frequent asked Questions",
+    "description": "Frequent Asked Question about Kiri's features and command."
+  }
 }

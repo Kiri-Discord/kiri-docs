@@ -27,6 +27,15 @@
       "key": "endi"
     }
   ],
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "Long Blog Post",
+    "authors": "endi",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"
