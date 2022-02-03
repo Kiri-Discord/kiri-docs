@@ -15,14 +15,6 @@ description: Frequent Asked Question about Kiri's features and command.
 
 * Kiri's default prefix is `k!` and can be changed by using `k! set-prefix` (not `k!prefix`)
 
-### How do I setup the verification portal?
-
-* Use `k!set-verify <#channel or channel ID> <@role or role ID>` with `<#channel>` as the the dedicated channel for the verification guide channel and `<@role>` for the role that you want to give newcomer after successful verification
-* You should block permissions of `@everyone` and only allow the **Verified** role of your liking to gain access to channels of the server
-* Newcomer will receive their dedicated verify link via DM or will be guided how to get them via the verification channel. They will be prompted to solved a quick Google reCAPTCHA to get access to the server
-
-![](https://i.imgur.com/68tE6ke.png)
-
 ### I donated, why didn't i got my perks?
 
 * Perks for donation aren't completely setup yet and are expected to arrive when 1.6 update come. BEFORE you donate, join our support sever first!

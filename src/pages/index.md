@@ -21,7 +21,6 @@ I'm still in **early access beta** so please join our support server immediately
 * 🏓 **Over 15 fun games** to challenge you and others members (heavily integrated with currency)
 * 🎨 **Rich meme generation** allows you generate cool memes and apply effects one on another in existing image in the channel
 * 📜 **Fun currency system** allows you to buy seeds and grow plants, as well as buying other items
-* 🔢 **Verification with reCAPTCHA** integrate world-class captcha in front of your server portal, eliminate bots and spam
 * 📜 **Embed creator** helps you to create custom embeds and send them, as well as adding variables via `k!variables` and apply to welcome or goodbye messages
 * 🔊 **Stable, high quality music** allows you to play music from a variety of sources
 * 📢 **Unique karaoke feature** send lyrics in real-time for your playing song!
