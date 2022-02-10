@@ -14,6 +14,8 @@ Setting while no music is running is quite simple. You just have to set your cha
 
 :::caution
 
-You need to give Kiri the permission to `Send Message` and `Embed Links` in that channel!
+You need to give Kiri the permission to `Send Message` and `Embed Links` in the channel lyrics will be sent to!
 
 :::
+
+![Setting up lyrics channel](/img/tutorial/karaoke/setup/channel-setup.png)
